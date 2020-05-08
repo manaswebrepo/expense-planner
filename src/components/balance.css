@@ -1,0 +1,24 @@
+.balance-content {
+  background-color: #ececec;
+  padding: 10px;
+}
+.balance-content label {
+  font-size: 14px;
+  color: #929090;
+}
+.balance-content h1 {
+  margin-bottom: 4px;
+}
+.total-view {
+  font-size: 14px;
+  padding-bottom: 10px;
+}
+
+.total-view span:first-child {
+  color: darkgreen;
+  padding-right: 15px;
+}
+
+.total-view span:last-child {
+  color: #e91e63;
+}
